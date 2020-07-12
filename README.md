@@ -10,4 +10,4 @@ Steps to upload the assignment file
  
  Note. Please follow the commented steps
 
-![Database](https://github.com/Roshan-Choudhary/One-Stop-Solutions/blob/master/Screenshots/16.AfterLogout.png)
+![Database]()
