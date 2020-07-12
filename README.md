@@ -1,4 +1,7 @@
-# Retail Shop Managenet System
+# Retail Shop Management System 
+ ## GUI Tool used for front end - tkinter
+ ## Database used sqlite3
+
 
 
 # How to run code file
