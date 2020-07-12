@@ -101,7 +101,7 @@ Steps to upload the assignment file
 
 
 
-# Checking COVID areas
+# Checking COVID areas by clicking  on third button
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/clicking%20on%20button%20to%20check%20the%20area%20is%20a%20COVID%20Region%20or%20not.PNG)
 
 
