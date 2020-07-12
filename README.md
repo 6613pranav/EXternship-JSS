@@ -1,5 +1,8 @@
-# Externship-JSS (Problem Statement - medium)
-The file uploaded with .ipynb extension can be opened with jupyter notebook of anacondad navigator 
+# Retail Shop Managenet System
+
+
+# How to run code file
+The file uploaded with .ipynb extension can be opened with jupyter notebook of anaconda navigator 
 
 Steps to upload the assignment file
  1. Download the file
