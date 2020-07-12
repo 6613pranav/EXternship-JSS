@@ -1,4 +1,4 @@
-# EXternship-JSS (Problem Statement - medium)
+# Externship-JSS (Problem Statement - medium)
 The file uploaded with .ipynb extension can be opened with jupyter notebook of anacondad navigator 
 
 Steps to upload the assignment file
@@ -10,8 +10,16 @@ Steps to upload the assignment file
  
  Note. Please follow the commented steps
 
+
+# Front Page
+
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/front%20page.PNG)
+
+# After clicking <Create  new bill>
+
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/create%20a%20bill%20main%20page.PNG)
+
+# After pressing 
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/Entering%20items.PNG)
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/error%20msg%20for%20items%20not%20present.PNG)
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/error%20msg%20for%20quantity%20not%20an%20integer.PNG)
