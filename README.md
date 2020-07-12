@@ -10,4 +10,4 @@ Steps to upload the assignment file
  
  Note. Please follow the commented steps
 
-![Database]()
+![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/front%20page.PNG)
