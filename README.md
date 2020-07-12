@@ -11,13 +11,33 @@ Steps to upload the assignment file
  Note. Please follow the commented steps
 
 
+
+
+
+
+
+
 # Front Page
 
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/front%20page.PNG)
 
+
+
+
+
+
+
+
 # After clicking < Create  new bill >
 
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/create%20a%20bill%20main%20page.PNG)
+
+
+
+
+
+
+
 
 # After clicking < Click to enter items >
 ### To update item click < Update Bill >
@@ -25,8 +45,22 @@ Steps to upload the assignment file
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/Entering%20items.PNG)
 
 
+
+
+
+
+
+
+
 # Error Msg if item is not present
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/error%20msg%20for%20items%20not%20present.PNG)
+
+
+
+
+
+
+
 
 # Error msg if entered quantity is not an integer
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/error%20msg%20for%20quantity%20not%20an%20integer.PNG)
@@ -34,17 +68,38 @@ Steps to upload the assignment file
 # Enter your name and date to generate the bill 
 ## Oncen you are done click on submit to generate bill
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/after%20clicking%20submit.PNG)
-![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/saving%20into%20database.PNG)
+
+
+
 
 # Press < Click to save into datebase > to save data into database
+![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/saving%20into%20database.PNG)
+
+
+
+
+
+
+
+# Error msg if Data already present in database
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/error%20msg%20if%20date%20already%20is%20present%20in%20database.PNG)
 
 
-# Error msg if Data already present in database 
+
+
+# Searching the data  of a particular date 
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/searching%20the%20data%20on%20a%20particular%20date.PNG)
+
+
+
+
 
 # Error msg if the searched date isnot present in database
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/error%20msg%20if%20date%20is%20not%20present.PNG)
+
+
+
+
 
 # Checking COVID areas
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/clicking%20on%20button%20to%20check%20the%20area%20is%20a%20COVID%20Region%20or%20not.PNG)
