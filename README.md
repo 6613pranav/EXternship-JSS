@@ -100,7 +100,7 @@ Steps to upload the assignment file
 
 
 
-# Error msg if the searched date isnot present in database
+# Error msg if the searched date is not present in database
 ![Database](https://github.com/6613pranav/EXternship-JSS/blob/master/Screen%20Shots-Externship/error%20msg%20if%20date%20is%20not%20present.PNG)
 
 
